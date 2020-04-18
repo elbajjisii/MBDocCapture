@@ -17,6 +17,7 @@
 - [x] Doc scanning
 - [x] Photo cropping and enhancement
 - [x] Auto scan
+- [] Add photo via gallery
 
 ## Demo
 
