@@ -122,6 +122,6 @@ func imageScannerController(_ scanner: ImageScannerController, didFailWithError 
 MBDocCapture is available under the MIT license. See the LICENSE file for more info.
 
 ## Support
-If this project helped you, buy me coffee :coffee:
+If this project helped you, buy me coffee:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/BEMahdi)
